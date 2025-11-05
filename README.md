@@ -10,4 +10,8 @@ Inside every folder, you’ll find:
 
 All assets were previously hosted on Imgur and will now be stored within this repository for better reliability and long-term availability.
 
+
+Additionally, all images follow Umbrel’s official app store guidelines regarding format, resolution, and naming conventions to ensure a consistent visual experience across the store.
+New assets are continuously added and updated as apps evolve or receive visual refreshes.
+
 ---
